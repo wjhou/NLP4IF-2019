@@ -1,5 +1,5 @@
 # Propaganda-Detection
-Code for CAUnLP at [**Shared Task on Fine-Grained Propaganda Detection @NLP4IF 2019**](https://propaganda.qcri.org/nlp4if-shared-task)
+Code for **CAUnLP** at [**Shared Task on Fine-Grained Propaganda Detection @NLP4IF 2019**](https://propaganda.qcri.org/nlp4if-shared-task)
 
 ## 0. Requirements
 * Python >= 3.5
