@@ -9,4 +9,5 @@ Code for **CAUnLP** at [**Shared Task on Fine-Grained Propaganda Detection @NLP4
 ## 1. Run Classifier
 	
 	cd code
+	chmod +x context_bert.bsh
 	./context_bert.bsh	
