@@ -1,5 +1,5 @@
-# Propaganda-Detection-with-Pretrained-LM
-Code for **NLP4IF Shared Task**: [Propaganda Detection](https://propaganda.qcri.org/nlp4if-shared-task)
+# Propaganda-Detection
+Code for [**Shared Task on Fine-Grained Propaganda Detection @NLP4IF 2019**](https://propaganda.qcri.org/nlp4if-shared-task)
 
 ## 0. Requirements
 * Python >= 3.5
