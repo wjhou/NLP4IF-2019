@@ -1,4 +1,4 @@
-# Propaganda-Detection
+# Sentence-Level Propaganda Detection
 Code for **CAUnLP** at [**Shared Task on Fine-Grained Propaganda Detection @NLP4IF 2019**](https://propaganda.qcri.org/nlp4if-shared-task)
 
 ## 0. Requirements
